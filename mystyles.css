@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://wallpapers.com/images/high/basketball-nba-logo-wh8ae0q74gl3payt.webp);
+    background-size:1650px;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-color: rgb(0, 0, 0);
+}
+.tableaustyle{
+    display: block;
+    margin: auto;
+}
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+      }
+.footer{
+    
+}
+.header{
+    
+}
+
+img{
+    border: solid white 4px;
+}
+iframe{
+    border: solid white 4px;
+}
+h1{
+    display: inline-block;
+    border: solid white 4px;
+}
+
+<!-- https://www.happy.rentals/admin/uploads/634fc6f79ad5eFamily-friendly-holiday-home.jpg -->
+
